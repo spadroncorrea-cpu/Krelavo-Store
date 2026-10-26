@@ -38,8 +38,7 @@ Esta entrega corresponde al prototipo visual e interactivo del proyecto. Las fun
 
 Proyecto académico desarrollado en equipo.
 
-## 🔗 Prototipo
+## 🔗 Prototipo interactivo
 
-Enlace al prototipo interactivo de Figma:
+[Ver prototipo de Krelavo Store en Figma](https://www.figma.com/proto/TFxeXIvMGm6Uprt4WHDnxM/Krelavo-Store---Prototipo?node-id=1-2&t=X1f1Wyk973MwDhkK-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=32%3A131)
 
-PENDIENTE: agregar aquí el enlace de Figma.
