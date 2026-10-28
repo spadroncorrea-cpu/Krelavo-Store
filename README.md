@@ -25,11 +25,6 @@ Diseñar un prototipo de tienda virtual que permita visualizar las principales f
 - Panel de administración.
 - Navegación interactiva entre pantallas.
 
-##  Herramientas utilizadas
-
-- Figma: diseño de interfaz y creación del prototipo interactivo.
-- GitHub: almacenamiento y documentación del proyecto.
-
 ## Alcance
 
 Esta entrega corresponde al prototipo visual e interactivo del proyecto. Las funcionalidades representan flujos de navegación simulados y no constituyen todavía un sistema de comercio electrónico completamente funcional.
