@@ -31,7 +31,9 @@ Esta entrega corresponde al prototipo visual e interactivo del proyecto. Las fun
 
 ## Equipo de trabajo
 
-Proyecto académico desarrollado en equipo.
+Sofia Padrón 
+Daniela Cardenas
+Jose Pacheco
 
 ## 🔗 Prototipo interactivo
 
