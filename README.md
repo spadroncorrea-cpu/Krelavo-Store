@@ -1,41 +1,49 @@
-# Krelavo Store 
+# Tienda Krelavo
 
 ### Tu belleza, tu esencia.
 
 ## Descripción del proyecto
 
-Krelavo Store es un proyecto académico que propone el diseño de una tienda virtual especializada en productos de belleza, cuidado facial y cuidado capilar.
+Krelavo Store es un proyecto académico que consiste en el diseño y desarrollo de una tienda virtual especializada en productos de belleza, cuidado facial y cuidado capilar.
 
-El proyecto busca ofrecer una experiencia de compra sencilla, organizada y agradable, mediante una interfaz moderna y elegante.
+El proyecto comenzó con el diseño de un prototipo interactivo en Figma y posteriormente continuó con el desarrollo de una aplicación de escritorio en Java.
+
+Su objetivo es ofrecer una experiencia de navegación sencilla, organizada y agradable para los usuarios.
 
 ## Objetivo
 
-Diseñar un prototipo de tienda virtual que permita visualizar las principales funcionalidades de un comercio electrónico de productos de belleza.
+Diseñar y desarrollar una aplicación para una tienda de productos de belleza, incorporando funcionalidades básicas de navegación, búsqueda y gestión de productos.
 
-## Funcionalidades del prototipo
+## Etapas del proyecto
+
+- **Prototipo en Figma:** diseño de la interfaz y navegación entre las diferentes pantallas de la tienda.
+- **Desarrollo en Java:** construcción de una aplicación de escritorio con inicio de sesión y catálogo de productos.
+
+## Funcionalidades
 
 - Inicio de sesión.
-- Registro de usuarios.
 - Catálogo de productos.
-- Navegación por categorías y marcas.
-- Lista de deseos o productos favoritos.
-- Carrito de compras.
-- Historial de compras.
-- Perfil y opciones de cuenta.
-- Panel de administración.
-- Navegación interactiva entre pantallas.
+- Búsqueda de productos.
+- Filtros por categoría, marca y precio.
+- Marcas destacadas.
+- Productos favoritos.
+- Contador de productos agregados al carrito.
 
-## Alcance
+## Tecnologías utilizadas
 
-Esta entrega corresponde al prototipo visual e interactivo del proyecto. Las funcionalidades representan flujos de navegación simulados y no constituyen todavía un sistema de comercio electrónico completamente funcional.
+- Java 8.
+- JavaFX 8.
+- NetBeans 25.
+- Apache Ant.
+- Figma.
 
 ## Equipo de trabajo
 
-Sofia Padrón 
-Daniela Cardenas
-Jose Pacheco
-Santiago Morales
-## 🔗 Prototipo interactivo
+- Sofía Padrón
+- Daniela Cárdenas
+- José Pacheco
+- Santiago
+
+## Prototipo interactivo
 
 [Ver prototipo de Krelavo Store en Figma](https://www.figma.com/proto/TFxeXIvMGm6Uprt4WHDnxM/Krelavo-Store---Prototipo?node-id=1-2&t=X1f1Wyk973MwDhkK-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=32%3A131)
-
