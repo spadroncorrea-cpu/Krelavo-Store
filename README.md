@@ -34,7 +34,7 @@ Esta entrega corresponde al prototipo visual e interactivo del proyecto. Las fun
 Sofia Padrón 
 Daniela Cardenas
 Jose Pacheco
-
+Santiago Morales
 ## 🔗 Prototipo interactivo
 
 [Ver prototipo de Krelavo Store en Figma](https://www.figma.com/proto/TFxeXIvMGm6Uprt4WHDnxM/Krelavo-Store---Prototipo?node-id=1-2&t=X1f1Wyk973MwDhkK-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=32%3A131)
