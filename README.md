@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Krelavo Store — Login y Catálogo
 
 Aplicación de escritorio con Java 8, JavaFX 8 y proyecto Ant para NetBeans 25.
@@ -51,3 +52,58 @@ El panel fotográfico del Login se compone con tres imágenes de skincare ya exi
 ## Verificación
 
 `verification/krelavo/store/SmokeCheck.java` comprueba Login, navegación, filtros, favoritos, imágenes y contador del carrito bajo Java 8/JavaFX 8. Desde la raíz del proyecto puede ejecutarse el target Ant `verify` si Ant está disponible y la plataforma JDK 8 está configurada.
+=======
+# Tienda Krelavo
+
+### Tu belleza, tu esencia.
+
+## Descripción del proyecto
+
+Krelavo Store es un proyecto académico que consiste en el diseño y desarrollo de una tienda virtual especializada en productos de belleza, cuidado facial y cuidado capilar.
+
+El proyecto comenzó con el diseño de un prototipo interactivo en Figma y posteriormente continuó con el desarrollo de una aplicación de escritorio en Java.
+
+Su objetivo es ofrecer una experiencia de navegación sencilla, organizada y agradable para los usuarios.
+
+## Objetivo
+
+Diseñar y desarrollar una aplicación para una tienda de productos de belleza, incorporando funcionalidades básicas de navegación, búsqueda y gestión de productos.
+
+## Etapas del proyecto
+
+- **Prototipo en Figma:** diseño de la interfaz y navegación entre las diferentes pantallas de la tienda.
+- **Desarrollo en Java:** construcción de una aplicación de escritorio con inicio de sesión y catálogo de productos.
+
+## Funcionalidades
+
+- Inicio de sesión.
+- Catálogo de productos.
+- Búsqueda de productos.
+- Filtros por categoría, marca y precio.
+- Marcas destacadas.
+- Productos favoritos.
+- Contador de productos agregados al carrito.
+
+## Tecnologías utilizadas
+
+- Java 8.
+- JavaFX 8.
+- NetBeans 25.
+- Apache Ant.
+- Figma.
+
+## Equipo de trabajo
+
+- Sofía Padrón
+- Daniela Cárdenas
+- José Pacheco
+- Santiago
+
+## Prototipo interactivo
+
+[Ver prototipo de Krelavo Store en Figma](https://www.figma.com/proto/TFxeXIvMGm6Uprt4WHDnxM/Krelavo-Store---Prototipo?node-id=1-2&t=X1f1Wyk973MwDhkK-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=32%3A131)
+
+## Estado del proyecto
+
+Actualmente, Krelavo Store se encuentra en etapa de desarrollo de su aplicación de escritorio en Java. Se continúa trabajando en la implementación de las funcionalidades y en la integración de los elementos diseñados en el prototipo de Figma.
+>>>>>>> c7dcc6a217726b9be6dcd08b4e47384202417fe6
