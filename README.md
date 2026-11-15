@@ -47,3 +47,7 @@ Diseñar y desarrollar una aplicación para una tienda de productos de belleza, 
 ## Prototipo interactivo
 
 [Ver prototipo de Krelavo Store en Figma](https://www.figma.com/proto/TFxeXIvMGm6Uprt4WHDnxM/Krelavo-Store---Prototipo?node-id=1-2&t=X1f1Wyk973MwDhkK-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=32%3A131)
+
+## Estado del proyecto
+
+Actualmente, Krelavo Store se encuentra en etapa de desarrollo de su aplicación de escritorio en Java. Se continúa trabajando en la implementación de las funcionalidades y en la integración de los elementos diseñados en el prototipo de Figma.
