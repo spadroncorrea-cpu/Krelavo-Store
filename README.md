@@ -36,7 +36,7 @@ Desarrollar una aplicación que permita explorar un catálogo de productos de be
 - Sofía Padrón.
 - Daniela Cárdenas.
 - José Pacheco.
-- Santiago.
+- Santiago Morales.
 
 ## Prototipo en Figma
 
