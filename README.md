@@ -42,6 +42,4 @@ Desarrollar una aplicación que permita explorar un catálogo de productos de be
 
 [Ver prototipo de Krelavo Store](https://www.figma.com/proto/TFxeXIvMGm6Uprt4WHDnxM/Krelavo-Store---Prototipo?node-id=1-2&t=X1f1Wyk973MwDhkK-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=32%3A131)
 
-## Estado del proyecto
 
-El proyecto se encuentra en desarrollo. Actualmente cuenta con una aplicación de escritorio que integra el inicio de sesión y el catálogo de productos.
