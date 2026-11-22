@@ -65,8 +65,8 @@
 .promo-bar { -fx-background-color: #EAD1D0; }
 .promo-message { -fx-text-fill: #5D454D; -fx-font-size: 11px; }
 .catalog-header { -fx-background-color: #FBF9F6; }
-.catalog-brand-title { -fx-text-fill: #82445E; -fx-font-size: 20px; -fx-font-weight: bold; }
-.catalog-brand-tagline { -fx-text-fill: #665A5F; -fx-font-size: 9px; }
+.catalog-brand-title, .catalog-marca-title { -fx-text-fill: #82445E; -fx-font-size: 20px; -fx-font-weight: bold; }
+.catalog-brand-tagline, .catalog-marca-tagline { -fx-text-fill: #665A5F; -fx-font-size: 9px; }
 .nav-button {
     -fx-background-color: transparent;
     -fx-text-fill: #423A3E;
@@ -96,14 +96,14 @@
     -fx-text-fill: #51484C;
 }
 .filter-select .list-cell { -fx-text-fill: #51484C; }
-.category-card {
+.category-tarjeta {
     -fx-background-color: #F0E3E4;
     -fx-background-radius: 4px;
     -fx-border-color: #E8D8DC;
     -fx-border-radius: 4px;
     -fx-cursor: hand;
 }
-.category-card:hover { -fx-background-color: #EAD9DE; }
+.category-tarjeta:hover { -fx-background-color: #EAD9DE; }
 .category-title { -fx-text-fill: #82445E; -fx-font-size: 15px; -fx-font-weight: bold; }
 .category-subtitle { -fx-text-fill: #6E6266; -fx-font-size: 11px; }
 .marca-tarjeta {

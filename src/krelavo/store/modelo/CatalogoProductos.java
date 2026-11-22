@@ -39,10 +39,5 @@ public final class CatalogoProductos {
                 "/krelavo/store/resources/images/" + nombreImagen));
     }
 
-    private static void agregarPendiente(List<Producto> productos, int numero, String categoria) {
-        String seccion = FACIAL.equals(categoria) ? "facial" : "capilar";
-        String rutaImagen = "/krelavo/store/resources/images/pendientes/" + seccion + "-" + numero + ".png";
-        productos.add(new Producto("Espacio " + seccion + " " + numero, SIN_MARCA,
-                0, categoria, rutaImagen, true));
-    }
+   
 }
